@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "die-casting-spares-die-casting-spare-cylindrical-sleeve",
+    "name": "Die Casting Spare: Cylindrical Sleeve",
+    "category": "Die Casting Spares",
+    "description": "High-precision die casting spare made to drawing or sample, with accurate dimensions and close tolerances.",
+    "image": "/images/manufacturing/die-casting-spare-cylindrical-sleeve.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Surface Grinding",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "die-casting-spares-die-casting-spare-pins-and-rods",
+    "name": "Die Casting Spare: Pins and Rods",
+    "category": "Die Casting Spares",
+    "description": "Die casting pins, rods and shafts made to drawing or sample for consistent quality and reliable performance.",
+    "image": "/images/manufacturing/die-casting-spare-pins-and-rods.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Surface Grinding",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "die-casting-spares-die-casting-spare-discs-and-plates",
+    "name": "Die Casting Spare: Discs and Plates",
+    "category": "Die Casting Spares",
+    "description": "Die casting discs, rotors and plates made to drawing or sample, with durability and consistent quality.",
+    "image": "/images/manufacturing/die-casting-spare-discs-and-plates.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Surface Grinding",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "precision-turning-assembly-precision-turned-flange-component",
+    "name": "Precision Turned Flange Component",
+    "category": "Precision Turning & Assembly",
+    "description": "Precision turned flange with high accuracy for critical applications.",
+    "image": "/images/manufacturing/precision-turned-flange-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "Precision Assembly"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "precision-turning-assembly-turned-ring-assembly",
+    "name": "Turned Ring Assembly",
+    "category": "Precision Turning & Assembly",
+    "description": "Turned ring assembly machined and assembled to drawing or sample.",
+    "image": "/images/manufacturing/turned-ring-assembly.jpg",
+    "processes": [
+      "CNC Turning",
+      "Precision Assembly"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "precision-turning-assembly-precision-turned-rotor-component",
+    "name": "Precision Turned Rotor Component",
+    "category": "Precision Turning & Assembly",
+    "description": "Precision turned rotor component with tight tolerances.",
+    "image": "/images/manufacturing/precision-turned-rotor-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "Precision Assembly"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "precision-turning-assembly-turned-housing-assembly",
+    "name": "Turned Housing Assembly",
+    "category": "Precision Turning & Assembly",
+    "description": "Turned housing assembly with reliable, consistent quality.",
+    "image": "/images/manufacturing/turned-housing-assembly.jpg",
+    "processes": [
+      "CNC Turning",
+      "Precision Assembly"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "precision-turning-assembly-turned-assembled-rotor-unit",
+    "name": "Turned & Assembled Rotor Unit",
+    "category": "Precision Turning & Assembly",
+    "description": "Rotor unit turned and assembled complete, with machining and assembly support.",
+    "image": "/images/manufacturing/turned-assembled-rotor-unit.jpg",
+    "processes": [
+      "CNC Turning",
+      "Precision Assembly"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "precision-turning-assembly-precision-turned-assembly-components",
+    "name": "Precision Turned Assembly Components",
+    "category": "Precision Turning & Assembly",
+    "description": "Precision turned components for assemblies, made to drawing or sample.",
+    "image": "/images/manufacturing/precision-turned-assembly-components.jpg",
+    "processes": [
+      "CNC Turning",
+      "Precision Assembly"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "precision-turning-assembly-turned-assembly-with-fixtures",
+    "name": "Turned Assembly with Fixtures",
+    "category": "Precision Turning & Assembly",
+    "description": "Turned assembly supplied with the fixtures used to build it.",
+    "image": "/images/manufacturing/turned-assembly-with-fixtures.jpg",
+    "processes": [
+      "CNC Turning",
+      "Precision Assembly"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "casting-machining-casting-component-machining",
+    "name": "Casting Component Machining",
+    "category": "Casting Machining",
+    "description": "Precision turning and facing of casting components.",
+    "image": "/images/manufacturing/casting-component-machining.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "casting-machining-die-casting-component",
+    "name": "Die Casting Component",
+    "category": "Casting Machining",
+    "description": "Machining of cast housings and rotor components.",
+    "image": "/images/manufacturing/die-casting-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "casting-machining-casting-machined-part",
+    "name": "Casting Machined Part",
+    "category": "Casting Machining",
+    "description": "Bore machining and face finishing of castings.",
+    "image": "/images/manufacturing/casting-machined-part.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "casting-machining-cast-component-machining",
+    "name": "Cast Component Machining",
+    "category": "Casting Machining",
+    "description": "Custom profile machining of cast components as per drawing or sample.",
+    "image": "/images/manufacturing/cast-component-machining.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "casting-machining-machined-casting-housing",
+    "name": "Machined Casting Housing",
+    "category": "Casting Machining",
+    "description": "Precision machining of complex casting housings.",
+    "image": "/images/manufacturing/machined-casting-housing.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "casting-machining-casting-components",
+    "name": "Casting Components",
+    "category": "Casting Machining",
+    "description": "From raw casting to finished machined component.",
+    "image": "/images/manufacturing/casting-components.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "casting-machining-machined-casting-discs",
+    "name": "Machined Casting Discs",
+    "category": "Casting Machining",
+    "description": "Slotting and profile machining of casting discs with high accuracy.",
+    "image": "/images/manufacturing/machined-casting-discs.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Slotting & Keyway"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-cylindrical-fixture",
+    "name": "Cylindrical Fixture",
+    "category": "Fixtures",
+    "description": "Custom fixture for holding cylindrical components during machining.",
+    "image": "/images/manufacturing/cylindrical-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-machining-fixture",
+    "name": "Machining Fixture",
+    "category": "Fixtures",
+    "description": "Fixture for precision positioning and stable machining.",
+    "image": "/images/manufacturing/machining-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-custom-fixture",
+    "name": "Custom Fixture",
+    "category": "Fixtures",
+    "description": "Application-specific fixture designed for accurate and repeatable operations.",
+    "image": "/images/manufacturing/custom-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-assembly-fixture",
+    "name": "Assembly Fixture",
+    "category": "Fixtures",
+    "description": "Special fixture for component assembly and alignment.",
+    "image": "/images/manufacturing/assembly-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-turning-fixture",
+    "name": "Turning Fixture",
+    "category": "Fixtures",
+    "description": "Precision fixture for turning operations and component holding.",
+    "image": "/images/manufacturing/turning-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-multi-station-fixture",
+    "name": "Multi-Station Fixture",
+    "category": "Fixtures",
+    "description": "Custom multi-station fixture for high-accuracy machining.",
+    "image": "/images/manufacturing/multi-station-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-milling-drilling-fixture",
+    "name": "Milling / Drilling Fixture",
+    "category": "Fixtures",
+    "description": "Robust fixture for milling, drilling and precision machining.",
+    "image": "/images/manufacturing/milling-drilling-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "fixtures-inspection-fixture",
+    "name": "Inspection Fixture",
+    "category": "Fixtures",
+    "description": "Fixture for component inspection and quality verification.",
+    "image": "/images/manufacturing/inspection-fixture.jpg",
+    "processes": [
+      "VMC Machining",
+      "Conventional Milling",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-precision-turning-labour-work",
+    "name": "Precision Turning (Labour Work)",
+    "category": "Labour Work",
+    "description": "Custom turning as per drawing or sample.",
+    "image": "/images/manufacturing/precision-turning-labour-work.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-step-turning-component",
+    "name": "Step Turning Component",
+    "category": "Labour Work",
+    "description": "Machining of stepped shafts and cylindrical parts.",
+    "image": "/images/manufacturing/step-turning-component.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-machined-flange-and-disc",
+    "name": "Machined Flange and Disc",
+    "category": "Labour Work",
+    "description": "Machined flanges and disc components.",
+    "image": "/images/manufacturing/machined-flange-and-disc.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-bush-component",
+    "name": "Bush Component",
+    "category": "Labour Work",
+    "description": "Precision machining of bushes and sleeves.",
+    "image": "/images/manufacturing/bush-component.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-precision-turned-shaft",
+    "name": "Precision Turned Shaft",
+    "category": "Labour Work",
+    "description": "Precision turned shafts as per customer requirements.",
+    "image": "/images/manufacturing/precision-turned-shaft.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-turned-component",
+    "name": "Turned Component",
+    "category": "Labour Work",
+    "description": "Precision turned components as per drawing or sample.",
+    "image": "/images/manufacturing/turned-component.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-conveyor-roller-component",
+    "name": "Conveyor / Roller Component",
+    "category": "Labour Work",
+    "description": "Machining of custom profile rollers and wheel components.",
+    "image": "/images/manufacturing/conveyor-roller-component.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-precision-turned-pins",
+    "name": "Precision Turned Pins",
+    "category": "Labour Work",
+    "description": "High-accuracy turned pins and cylindrical components.",
+    "image": "/images/manufacturing/precision-turned-pins.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-grooved-component",
+    "name": "Grooved Component",
+    "category": "Labour Work",
+    "description": "Precision grooving and profile machining.",
+    "image": "/images/manufacturing/grooved-component.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-custom-flange-component",
+    "name": "Custom Flange Component",
+    "category": "Labour Work",
+    "description": "Custom flanges and machined discs.",
+    "image": "/images/manufacturing/custom-flange-component.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "labour-work-turned-shaft-component",
+    "name": "Turned Shaft Component",
+    "category": "Labour Work",
+    "description": "Turning and machining of shafts as per customer requirements.",
+    "image": "/images/manufacturing/turned-shaft-component.jpg",
+    "processes": [
+      "CNC Turning"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-precision-machined-piston",
+    "name": "Precision Machined Piston",
+    "category": "Component Development",
+    "description": "Manufactured as per drawing or sample with high dimensional accuracy and superior surface finish.",
+    "image": "/images/manufacturing/precision-machined-piston.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-precision-machined-connecting-rod",
+    "name": "Precision Machined Connecting Rod",
+    "category": "Component Development",
+    "description": "Manufactured as per drawing or sample with high strength and dimensional accuracy.",
+    "image": "/images/manufacturing/precision-machined-connecting-rod.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-precision-bracket-component",
+    "name": "Precision Bracket Component",
+    "category": "Component Development",
+    "description": "Custom machined component as per drawing or sample.",
+    "image": "/images/manufacturing/precision-bracket-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-precision-screw-component",
+    "name": "Precision Screw Component",
+    "category": "Component Development",
+    "description": "Precision turned component with fine dimensions.",
+    "image": "/images/manufacturing/precision-screw-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-machined-clamp-assembly",
+    "name": "Machined Clamp Assembly",
+    "category": "Component Development",
+    "description": "Custom assembly component with high dimensional accuracy and surface finish.",
+    "image": "/images/manufacturing/machined-clamp-assembly.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-precision-milled-components",
+    "name": "Precision Milled Components",
+    "category": "Component Development",
+    "description": "CNC machined components with accurate profiles and fine surface finish.",
+    "image": "/images/manufacturing/precision-milled-components.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-custom-machined-component",
+    "name": "Custom Machined Component",
+    "category": "Component Development",
+    "description": "Manufactured as per drawing or sample with precise machining and assembly.",
+    "image": "/images/manufacturing/custom-machined-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-pusher-mount-plate-for-pharma-applications",
+    "name": "Pusher Mount Plate for Pharma Applications",
+    "category": "Component Development",
+    "description": "Precision machined mount plate manufactured as per drawing for pharmaceutical applications.",
+    "image": "/images/manufacturing/pusher-mount-plate-for-pharma-applications.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-dolly-plate-for-robotics-weld-fixture",
+    "name": "Dolly Plate for Robotics Weld Fixture",
+    "category": "Component Development",
+    "description": "Precision fabricated and machined dolly plates for robotics welding fixture applications.",
+    "image": "/images/manufacturing/dolly-plate-for-robotics-weld-fixture.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-precision-machined-plates",
+    "name": "Precision Machined Plates",
+    "category": "Component Development",
+    "description": "CNC machined plates as per drawing or sample with high dimensional accuracy and surface finish.",
+    "image": "/images/manufacturing/precision-machined-plates.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-machined-tool-component",
+    "name": "Machined Tool Component",
+    "category": "Component Development",
+    "description": "Custom machined components as per drawing for industrial fixtures and tooling applications.",
+    "image": "/images/manufacturing/machined-tool-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-precision-shaft-component",
+    "name": "Precision Shaft Component",
+    "category": "Component Development",
+    "description": "Precision machined shafts with fine tolerances as per customer requirements.",
+    "image": "/images/manufacturing/precision-shaft-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-rotary-component",
+    "name": "Rotary Component",
+    "category": "Component Development",
+    "description": "Precision machined rotary components as per drawing or sample for industrial applications.",
+    "image": "/images/manufacturing/rotary-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-machined-component",
+    "name": "Machined Component",
+    "category": "Component Development",
+    "description": "Precision machined components for industrial applications.",
+    "image": "/images/manufacturing/machined-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-special-component",
+    "name": "Special Component",
+    "category": "Component Development",
+    "description": "Custom manufactured components as per drawing or sample requirements.",
+    "image": "/images/manufacturing/special-component.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "component-development-custom-component-development",
+    "name": "Custom Component Development",
+    "category": "Component Development",
+    "description": "Complex precision component development with high dimensional accuracy and durability.",
+    "image": "/images/manufacturing/custom-component-development.jpg",
+    "processes": [
+      "CNC Turning",
+      "VMC Machining",
+      "Conventional Milling",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "mould-development-mould-base-component",
+    "name": "Mould Base Component",
+    "category": "Mould Development",
+    "description": "Precision manufactured mould components with high accuracy and durability for industrial applications.",
+    "image": "/images/manufacturing/mould-base-component.jpg",
+    "processes": [
+      "VMC Machining",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "mould-development-mould-insert-component",
+    "name": "Mould Insert Component",
+    "category": "Mould Development",
+    "description": "Custom developed mould inserts as per drawing or sample with precise machining and fine finish.",
+    "image": "/images/manufacturing/mould-insert-component.jpg",
+    "processes": [
+      "VMC Machining",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "mould-development-mould-assembly",
+    "name": "Mould Assembly",
+    "category": "Mould Development",
+    "description": "Complete mould assembly development with precision machining for consistent performance and long service life.",
+    "image": "/images/manufacturing/mould-assembly.jpg",
+    "processes": [
+      "VMC Machining",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "gauging-fixtures-relation-gauge",
+    "name": "Relation Gauge",
+    "category": "Gauging Fixtures",
+    "description": "Custom designed and manufactured relation gauge for dimensional and positional accuracy checking of critical components.",
+    "image": "/images/manufacturing/relation-gauge.jpg",
+    "processes": [
+      "VMC Machining",
+      "Surface Grinding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "spare-development-actuator-cylinder-spare-component",
+    "name": "Actuator Cylinder Spare Component",
+    "category": "Spare Development",
+    "description": "Precision machined cylinder spare for industrial applications.",
+    "image": "/images/manufacturing/actuator-cylinder-spare-component.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "spare-development-cylinder-assembly-spare",
+    "name": "Cylinder Assembly Spare",
+    "category": "Spare Development",
+    "description": "Custom manufactured cylinder spare with high dimensional accuracy.",
+    "image": "/images/manufacturing/cylinder-assembly-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "spare-development-rotary-plate-component",
+    "name": "Rotary Plate Component",
+    "category": "Spare Development",
+    "description": "Precision machined rotary plate as per drawing or sample for industrial machinery.",
+    "image": "/images/manufacturing/rotary-plate-component.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "spare-development-bracket-spare-component",
+    "name": "Bracket Spare Component",
+    "category": "Spare Development",
+    "description": "Machined bracket component as per drawing or sample.",
+    "image": "/images/manufacturing/bracket-spare-component.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "spare-development-fixture-spare-component",
+    "name": "Fixture Spare Component",
+    "category": "Spare Development",
+    "description": "Custom machined fixture spare with precise profiles and hole positions.",
+    "image": "/images/manufacturing/fixture-spare-component.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "machine-spares-lever-component-spare",
+    "name": "Lever Component Spare",
+    "category": "Machine Spares",
+    "description": "Precision machined lever component as per drawing for machine spares.",
+    "image": "/images/manufacturing/lever-component-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "machine-spares-fixture-assembly-spare",
+    "name": "Fixture Assembly Spare",
+    "category": "Machine Spares",
+    "description": "Custom manufactured fixture assembly for industrial machine spares.",
+    "image": "/images/manufacturing/fixture-assembly-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "machine-spares-machine-plate-spare",
+    "name": "Machine Plate Spare",
+    "category": "Machine Spares",
+    "description": "Precision machined plate component for machine spare applications.",
+    "image": "/images/manufacturing/machine-plate-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "machine-spares-bracket-component-spare",
+    "name": "Bracket Component Spare",
+    "category": "Machine Spares",
+    "description": "Machined bracket component as per drawing for industrial machines.",
+    "image": "/images/manufacturing/bracket-component-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "machine-spares-link-rod-component-spare",
+    "name": "Link Rod Component Spare",
+    "category": "Machine Spares",
+    "description": "Custom machined link rod component for machine spares with precise dimensions and high strength.",
+    "image": "/images/manufacturing/link-rod-component-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "machine-spares-flange-component-spare",
+    "name": "Flange Component Spare",
+    "category": "Machine Spares",
+    "description": "Precision machined flange components for machine spares and assemblies.",
+    "image": "/images/manufacturing/flange-component-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "machine-spares-adjuster-component-spare",
+    "name": "Adjuster Component Spare",
+    "category": "Machine Spares",
+    "description": "Custom manufactured adjuster component for industrial machine spares.",
+    "image": "/images/manufacturing/adjuster-component-spare.jpg",
+    "processes": [
+      "VMC Machining",
+      "CNC Turning",
+      "Reverse Engineering"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "surgical-trolley-surgical-trolley-assembly",
+    "name": "Surgical Trolley Assembly",
+    "category": "Surgical Trolley",
+    "description": "Precision manufactured surgical trolley with robust structure and smooth mobility.",
+    "image": "/images/manufacturing/surgical-trolley-assembly.jpg",
+    "processes": [
+      "Fabrication & Welding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "surgical-trolley-custom-surgical-trolley",
+    "name": "Custom Surgical Trolley",
+    "category": "Surgical Trolley",
+    "description": "Customized surgical trolley solutions as per customer requirements, designed for ease of use, stability and ergonomic operation in surgical environments.",
+    "image": "/images/manufacturing/custom-surgical-trolley.jpg",
+    "processes": [
+      "Fabrication & Welding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  },
+  {
+    "id": "drift-machine-drift-machine",
+    "name": "Drift Machine",
+    "category": "Drift Machine",
+    "description": "High-precision drift machine for keyway and profile forming, designed as per component and production requirements, with sturdy construction and stable, smooth operation.",
+    "image": "/images/manufacturing/drift-machine.jpg",
+    "processes": [
+      "Fabrication & Welding",
+      "Precision Assembly",
+      "CAD-Based Development"
+    ],
+    "specs": {
+      "Made to": "Your drawing or sample"
+    }
+  }
+]

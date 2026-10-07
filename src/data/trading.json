@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "fasteners-allen-bolts-socket-head",
+    "name": "Allen Bolts (Socket Head)",
+    "category": "Fasteners",
+    "description": "Socket head cap screws driven with a hex key. A strong, low-profile fastening for machines, fixtures and tooling.",
+    "image": "/images/products/allen-bolts-socket-head.jpg",
+    "sizes": [
+      "M4",
+      "M5",
+      "M6",
+      "M8",
+      "M10",
+      "M12",
+      "M16",
+      "M20"
+    ],
+    "specs": {
+      "Material": "Alloy steel (12.9) or stainless steel",
+      "Finish": "Black oxide",
+      "Drive": "Hex socket",
+      "Thread": "Metric"
+    }
+  },
+  {
+    "id": "fasteners-hex-bolts-nuts",
+    "name": "Hex Bolts & Nuts",
+    "category": "Fasteners",
+    "description": "Hexagonal head bolts and matching nuts for general structural and machinery fastening.",
+    "image": "/images/products/hex-bolts-nuts.jpg",
+    "sizes": [
+      "M6",
+      "M8",
+      "M10",
+      "M12",
+      "M16",
+      "M20",
+      "M24"
+    ],
+    "specs": {
+      "Material": "Mild steel or stainless steel",
+      "Finish": "Zinc plated or plain",
+      "Drive": "Hex head",
+      "Thread": "Metric"
+    }
+  },
+  {
+    "id": "fasteners-washers",
+    "name": "Washers",
+    "category": "Fasteners",
+    "description": "Plain washers that spread load and protect the surface under a nut or bolt head.",
+    "image": "/images/products/washers.jpg",
+    "sizes": [
+      "M4",
+      "M5",
+      "M6",
+      "M8",
+      "M10",
+      "M12",
+      "M16",
+      "M20"
+    ],
+    "specs": {
+      "Material": "Mild steel or stainless steel",
+      "Finish": "Zinc plated or plain"
+    }
+  },
+  {
+    "id": "fasteners-studs-threaded-rods",
+    "name": "Studs & Threaded Rods",
+    "category": "Fasteners",
+    "description": "Fully threaded rods and studs for clamping, fixtures and assemblies. Cut to your length.",
+    "image": "/images/products/studs-threaded-rods.jpg",
+    "sizes": [
+      "M6",
+      "M8",
+      "M10",
+      "M12",
+      "M16",
+      "M20"
+    ],
+    "specs": {
+      "Material": "Mild steel, alloy steel or stainless steel",
+      "Thread": "Metric",
+      "Length": "Cut to order"
+    }
+  },
+  {
+    "id": "fasteners-dome-nuts-cap-nuts",
+    "name": "Dome Nuts & Cap Nuts",
+    "category": "Fasteners",
+    "description": "Closed-end nuts that cover the bolt thread for a safe, neat finish.",
+    "image": "/images/products/dome-nuts-cap-nuts.jpg",
+    "sizes": [
+      "M5",
+      "M6",
+      "M8",
+      "M10",
+      "M12",
+      "M16"
+    ],
+    "specs": {
+      "Material": "Stainless steel or mild steel",
+      "Finish": "Polished or zinc plated"
+    }
+  },
+  {
+    "id": "fasteners-rivets",
+    "name": "Rivets",
+    "category": "Fasteners",
+    "description": "Rivets for permanent joints in sheet metal and light fabrication.",
+    "image": "/images/products/rivets.jpg",
+    "sizes": [
+      "3.2 mm",
+      "4 mm",
+      "4.8 mm",
+      "6.4 mm"
+    ],
+    "specs": {
+      "Type": "Blind (pop) and solid",
+      "Material": "Aluminium, steel or stainless steel"
+    }
+  },
+  {
+    "id": "fasteners-spring-washers",
+    "name": "Spring Washers",
+    "category": "Fasteners",
+    "description": "Split washers that keep bolted joints from loosening under vibration.",
+    "image": "/images/products/spring-washers.jpg",
+    "sizes": [
+      "M4",
+      "M5",
+      "M6",
+      "M8",
+      "M10",
+      "M12",
+      "M16",
+      "M20"
+    ],
+    "specs": {
+      "Material": "Spring steel",
+      "Finish": "Zinc plated or plain"
+    }
+  },
+  {
+    "id": "fasteners-taper-pins",
+    "name": "Taper Pins",
+    "category": "Fasteners",
+    "description": "Precision tapered pins for locating and joining parts that must be taken apart and refitted.",
+    "image": "/images/products/taper-pins.jpg",
+    "sizes": [
+      "3 mm",
+      "4 mm",
+      "5 mm",
+      "6 mm",
+      "8 mm",
+      "10 mm",
+      "12 mm",
+      "16 mm"
+    ],
+    "specs": {
+      "Taper": "1:50",
+      "Material": "Steel or stainless steel"
+    }
+  },
+  {
+    "id": "hand-tools-allen-keys",
+    "name": "Allen Keys",
+    "category": "Hand Tools",
+    "description": "Hex keys in long and short arm for socket head screws, sold singly or in sets.",
+    "image": "/images/products/allen-keys.jpg",
+    "sizes": [
+      "1.5 mm",
+      "2 mm",
+      "3 mm",
+      "4 mm",
+      "5 mm",
+      "6 mm",
+      "8 mm",
+      "10 mm"
+    ],
+    "specs": {
+      "Material": "Chrome vanadium steel",
+      "Sold as": "Single or set"
+    }
+  },
+  {
+    "id": "hand-tools-spanner-sets",
+    "name": "Spanner Sets",
+    "category": "Hand Tools",
+    "description": "Open-end, ring and combination spanners for workshop and maintenance use.",
+    "image": "/images/products/spanner-sets.jpg",
+    "sizes": [
+      "6 mm to 32 mm"
+    ],
+    "specs": {
+      "Types": "Open-end, ring, combination",
+      "Material": "Chrome vanadium steel"
+    }
+  },
+  {
+    "id": "hand-tools-adjustable-spanners",
+    "name": "Adjustable Spanners",
+    "category": "Hand Tools",
+    "description": "Adjustable-jaw spanners for jobs where one tool has to fit many nut sizes.",
+    "image": "/images/products/adjustable-spanners.jpg",
+    "sizes": [
+      "150 mm",
+      "200 mm",
+      "250 mm",
+      "300 mm"
+    ],
+    "specs": {
+      "Material": "Forged steel"
+    }
+  },
+  {
+    "id": "hand-tools-screw-drivers",
+    "name": "Screw Drivers",
+    "category": "Hand Tools",
+    "description": "Flat and Phillips screwdrivers with insulated or plain handles.",
+    "image": "/images/products/screw-drivers.jpg",
+    "sizes": [
+      "Flat",
+      "Phillips",
+      "Various lengths"
+    ],
+    "specs": {
+      "Tip types": "Flat and Phillips"
+    }
+  },
+  {
+    "id": "hand-tools-plier-cutter",
+    "name": "Plier & Cutter",
+    "category": "Hand Tools",
+    "description": "Combination pliers, nose pliers and side cutters for gripping, bending and cutting wire.",
+    "image": "/images/products/plier-cutter.jpg",
+    "sizes": [
+      "6 inch",
+      "8 inch"
+    ],
+    "specs": {
+      "Types": "Combination, long nose, side cutter"
+    }
+  },
+  {
+    "id": "hand-tools-hammers",
+    "name": "Hammers",
+    "category": "Hand Tools",
+    "description": "Ball peen, claw, sledge and soft-face hammers for fitting, marking and assembly work.",
+    "image": "/images/products/hammers.jpg",
+    "sizes": [
+      "0.25 kg",
+      "0.5 kg",
+      "1 kg",
+      "2 kg",
+      "5 kg"
+    ],
+    "specs": {
+      "Types": "Ball peen, claw, sledge, rubber"
+    }
+  },
+  {
+    "id": "hand-tools-punches-chisels",
+    "name": "Punches & Chisels",
+    "category": "Hand Tools",
+    "description": "Centre punches, pin punches and cold chisels for marking, drifting and cutting.",
+    "image": "/images/products/punches-chisels.jpg",
+    "sizes": [
+      "Various sizes"
+    ],
+    "specs": {
+      "Material": "Tool steel"
+    }
+  },
+  {
+    "id": "hand-tools-measuring-tools",
+    "name": "Measuring Tools",
+    "category": "Hand Tools",
+    "description": "Everyday measuring tools for the shop floor: tapes, steel rules and squares.",
+    "image": "/images/products/measuring-tools.jpg",
+    "sizes": [
+      "3 m and 5 m tapes",
+      "150 mm to 600 mm rules"
+    ],
+    "specs": {
+      "Types": "Tape, steel rule, try square"
+    }
+  },
+  {
+    "id": "machine-tool-accessories-collet-er-oz-tg",
+    "name": "Collet (ER, OZ, TG)",
+    "category": "Machine Tool Accessories",
+    "description": "Precision spring collets that grip cutting tools and workpieces in holders and chucks.",
+    "image": "/images/products/collet-er-oz-tg.jpg",
+    "sizes": [
+      "ER8",
+      "ER11",
+      "ER16",
+      "ER20",
+      "ER25",
+      "ER32",
+      "ER40"
+    ],
+    "specs": {
+      "Series": "ER, OZ and TG",
+      "Use": "Milling, drilling and turning"
+    }
+  },
+  {
+    "id": "machine-tool-accessories-collet-chucks",
+    "name": "Collet Chucks",
+    "category": "Machine Tool Accessories",
+    "description": "Chucks that hold collets for accurate, concentric tool and work holding.",
+    "image": "/images/products/collet-chucks.jpg",
+    "sizes": [
+      "ER16",
+      "ER20",
+      "ER25",
+      "ER32"
+    ]
+  },
+  {
+    "id": "machine-tool-accessories-vmc-tool-holders",
+    "name": "VMC Tool Holders",
+    "category": "Machine Tool Accessories",
+    "description": "Tool holders for vertical machining centres, matched to your spindle taper.",
+    "image": "/images/products/vmc-tool-holders.jpg",
+    "sizes": [
+      "BT30",
+      "BT40",
+      "BT50"
+    ],
+    "specs": {
+      "Types": "ER collet, end mill, shell mill, drill chuck holders"
+    }
+  },
+  {
+    "id": "machine-tool-accessories-drilling-chucks",
+    "name": "Drilling Chucks",
+    "category": "Machine Tool Accessories",
+    "description": "Keyed drill chucks for drilling machines and lathes.",
+    "image": "/images/products/drilling-chucks.jpg",
+    "sizes": [
+      "0.5 to 6 mm",
+      "1 to 13 mm",
+      "3 to 16 mm"
+    ],
+    "specs": {
+      "Mount": "Morse taper or threaded"
+    }
+  },
+  {
+    "id": "machine-tool-accessories-machine-vices",
+    "name": "Machine Vices",
+    "category": "Machine Tool Accessories",
+    "description": "Precision vices to hold work on drilling, milling and grinding machines.",
+    "image": "/images/products/machine-vices.jpg",
+    "sizes": [
+      "4 inch",
+      "5 inch",
+      "6 inch",
+      "8 inch"
+    ],
+    "specs": {
+      "Type": "Machine vice, fixed and swivel base"
+    }
+  },
+  {
+    "id": "machine-tool-accessories-tool-post-holders",
+    "name": "Tool Post Holders",
+    "category": "Machine Tool Accessories",
+    "description": "Holders that mount cutting tools on lathe tool posts.",
+    "image": "/images/products/tool-post-holders.jpg",
+    "specs": {
+      "Use": "Lathe tool posts"
+    }
+  },
+  {
+    "id": "machine-tool-accessories-parallel-keys",
+    "name": "Parallel Keys",
+    "category": "Machine Tool Accessories",
+    "description": "Keys that lock shafts to gears, pulleys and hubs.",
+    "image": "/images/products/parallel-keys.jpg",
+    "specs": {
+      "Material": "EN series steel",
+      "Length": "Cut to order"
+    }
+  },
+  {
+    "id": "machine-tool-accessories-r8-mt-accessories",
+    "name": "R8 / MT Accessories",
+    "category": "Machine Tool Accessories",
+    "description": "Arbors, adaptors and sleeves for R8 and Morse taper spindles.",
+    "image": "/images/products/r8-mt-accessories.jpg",
+    "sizes": [
+      "R8",
+      "MT1",
+      "MT2",
+      "MT3",
+      "MT4",
+      "MT5"
+    ],
+    "specs": {
+      "Taper": "R8 and Morse"
+    }
+  },
+  {
+    "id": "cutting-tools-hss-drill-bits",
+    "name": "HSS Drill Bits",
+    "category": "Cutting Tools",
+    "description": "High speed steel twist drills for steel, cast iron and non-ferrous metals.",
+    "image": "/images/products/hss-drill-bits.jpg",
+    "sizes": [
+      "1 mm to 25 mm"
+    ],
+    "specs": {
+      "Material": "HSS",
+      "Shank": "Straight and taper"
+    }
+  },
+  {
+    "id": "cutting-tools-carbide-end-mills",
+    "name": "Carbide End Mills",
+    "category": "Cutting Tools",
+    "description": "Solid carbide end mills for accurate milling of steel, stainless steel and aluminium.",
+    "image": "/images/products/carbide-end-mills.jpg",
+    "sizes": [
+      "2 mm to 20 mm"
+    ],
+    "specs": {
+      "Material": "Solid carbide",
+      "Flutes": "2, 3 and 4"
+    }
+  },
+  {
+    "id": "cutting-tools-reamers",
+    "name": "Reamers",
+    "category": "Cutting Tools",
+    "description": "Reamers that finish holes to close tolerance and a smooth surface.",
+    "image": "/images/products/reamers.jpg",
+    "sizes": [
+      "3 mm to 25 mm"
+    ],
+    "specs": {
+      "Types": "Hand and machine reamers",
+      "Material": "HSS"
+    }
+  },
+  {
+    "id": "cutting-tools-taps-dies",
+    "name": "Taps & Dies",
+    "category": "Cutting Tools",
+    "description": "Cutting taps and round dies for making internal and external threads.",
+    "image": "/images/products/taps-dies.jpg",
+    "sizes": [
+      "M3",
+      "M4",
+      "M5",
+      "M6",
+      "M8",
+      "M10",
+      "M12",
+      "M16"
+    ],
+    "specs": {
+      "Thread": "Metric, BSW on request"
+    }
+  },
+  {
+    "id": "cutting-tools-milling-cutters",
+    "name": "Milling Cutters",
+    "category": "Cutting Tools",
+    "description": "Side and face, slot and shell cutters for milling machines.",
+    "image": "/images/products/milling-cutters.jpg",
+    "specs": {
+      "Material": "HSS or carbide"
+    }
+  },
+  {
+    "id": "cutting-tools-step-drills",
+    "name": "Step Drills",
+    "category": "Cutting Tools",
+    "description": "Stepped drills for clean holes in sheet metal and thin plate.",
+    "image": "/images/products/step-drills.jpg",
+    "specs": {
+      "Use": "Sheet metal and thin plate"
+    }
+  },
+  {
+    "id": "cutting-tools-hole-saws",
+    "name": "Hole Saws",
+    "category": "Cutting Tools",
+    "description": "Bi-metal hole saws for cutting large diameter holes in sheet and plate.",
+    "image": "/images/products/hole-saws.jpg",
+    "sizes": [
+      "16 mm to 100 mm"
+    ],
+    "specs": {
+      "Material": "Bi-metal"
+    }
+  },
+  {
+    "id": "cutting-tools-countersinks",
+    "name": "Countersinks",
+    "category": "Cutting Tools",
+    "description": "Countersink cutters for chamfering and seating flat head screws.",
+    "image": "/images/products/countersinks.jpg",
+    "sizes": [
+      "60 degree",
+      "90 degree",
+      "120 degree"
+    ],
+    "specs": {
+      "Material": "HSS"
+    }
+  },
+  {
+    "id": "abrasives-grinding-wheels",
+    "name": "Grinding Wheels",
+    "category": "Abrasives",
+    "description": "Bonded wheels for bench, pedestal and tool grinding.",
+    "image": "/images/products/grinding-wheels.jpg",
+    "sizes": [
+      "100 mm",
+      "150 mm",
+      "200 mm",
+      "250 mm"
+    ],
+    "specs": {
+      "Use": "Bench and pedestal grinders"
+    }
+  },
+  {
+    "id": "abrasives-cutting-wheels",
+    "name": "Cutting Wheels",
+    "category": "Abrasives",
+    "description": "Thin wheels for cutting steel, stainless steel and other metals.",
+    "image": "/images/products/cutting-wheels.jpg",
+    "sizes": [
+      "4 inch",
+      "7 inch",
+      "14 inch"
+    ],
+    "specs": {
+      "Use": "Angle grinders and chop saws"
+    }
+  },
+  {
+    "id": "abrasives-flap-discs",
+    "name": "Flap Discs",
+    "category": "Abrasives",
+    "description": "Overlapping abrasive flaps for blending, deburring and finishing in one step.",
+    "image": "/images/products/flap-discs.jpg",
+    "sizes": [
+      "4 inch",
+      "4.5 inch",
+      "5 inch"
+    ],
+    "specs": {
+      "Grit": "40, 60, 80, 120"
+    }
+  },
+  {
+    "id": "abrasives-sanding-discs",
+    "name": "Sanding Discs",
+    "category": "Abrasives",
+    "description": "Sanding discs for smoothing and prepping metal, wood and painted surfaces.",
+    "image": "/images/products/sanding-discs.jpg",
+    "sizes": [
+      "5 inch",
+      "6 inch"
+    ],
+    "specs": {
+      "Grit": "Coarse to fine"
+    }
+  },
+  {
+    "id": "abrasives-abrasive-belts",
+    "name": "Abrasive Belts",
+    "category": "Abrasives",
+    "description": "Belts for linishing, deburring and finishing on belt machines.",
+    "image": "/images/products/abrasive-belts.jpg",
+    "specs": {
+      "Size": "Made to your belt size"
+    }
+  },
+  {
+    "id": "abrasives-mounted-points",
+    "name": "Mounted Points",
+    "category": "Abrasives",
+    "description": "Small mounted stones for die grinding and internal finishing.",
+    "image": "/images/products/mounted-points.jpg",
+    "specs": {
+      "Use": "Die grinders"
+    }
+  },
+  {
+    "id": "abrasives-wire-brush",
+    "name": "Wire Brush",
+    "category": "Abrasives",
+    "description": "Wheel and cup brushes for cleaning rust, scale and weld spatter.",
+    "image": "/images/products/wire-brush.jpg",
+    "sizes": [
+      "3 inch",
+      "4 inch",
+      "6 inch"
+    ],
+    "specs": {
+      "Types": "Wheel, cup, hand"
+    }
+  },
+  {
+    "id": "buffing-polishing-buffing-mop-wheels",
+    "name": "Buffing / Mop Wheels",
+    "category": "Buffing & Polishing",
+    "description": "Cloth mop wheels for polishing metal to a bright finish.",
+    "image": "/images/products/buffing-mop-wheels.jpg",
+    "sizes": [
+      "4 inch",
+      "6 inch",
+      "8 inch",
+      "10 inch"
+    ],
+    "specs": {
+      "Material": "Cotton"
+    }
+  },
+  {
+    "id": "buffing-polishing-stial-wheels",
+    "name": "Stial Wheels",
+    "category": "Buffing & Polishing",
+    "description": "Stitched buffing wheels for firm cutting and polishing.",
+    "image": "/images/products/stial-wheels.jpg"
+  },
+  {
+    "id": "buffing-polishing-felt-wheels",
+    "name": "Felt Wheels",
+    "category": "Buffing & Polishing",
+    "description": "Dense felt wheels for fine polishing and high-gloss finishing.",
+    "image": "/images/products/felt-wheels.jpg",
+    "specs": {
+      "Material": "Felt"
+    }
+  },
+  {
+    "id": "buffing-polishing-polishing-compounds",
+    "name": "Polishing Compounds",
+    "category": "Buffing & Polishing",
+    "description": "Compound bars used with buffing wheels to cut, colour and polish.",
+    "image": "/images/products/polishing-compounds.jpg",
+    "specs": {
+      "Form": "Bar"
+    }
+  },
+  {
+    "id": "buffing-polishing-buffing-sticks",
+    "name": "Buffing Sticks",
+    "category": "Buffing & Polishing",
+    "description": "Buffing sticks for polishing small and detailed parts.",
+    "image": "/images/products/buffing-sticks.jpg"
+  },
+  {
+    "id": "screws-small-parts-grub-screws-set-screws",
+    "name": "Grub Screws (Set Screws)",
+    "category": "Screws & Small Parts",
+    "description": "Headless screws that lock pulleys, collars and gears on shafts.",
+    "image": "/images/products/grub-screws-set-screws.jpg",
+    "sizes": [
+      "M3",
+      "M4",
+      "M5",
+      "M6",
+      "M8",
+      "M10",
+      "M12"
+    ],
+    "specs": {
+      "Drive": "Hex socket",
+      "Finish": "Black oxide"
+    }
+  },
+  {
+    "id": "screws-small-parts-socket-screws",
+    "name": "Socket Screws",
+    "category": "Screws & Small Parts",
+    "description": "Socket head screws for machinery, fixtures and tooling.",
+    "image": "/images/products/socket-screws.jpg",
+    "sizes": [
+      "M3",
+      "M4",
+      "M5",
+      "M6",
+      "M8",
+      "M10",
+      "M12"
+    ],
+    "specs": {
+      "Drive": "Hex socket",
+      "Material": "Alloy steel or stainless steel"
+    }
+  },
+  {
+    "id": "screws-small-parts-self-tapping-screws",
+    "name": "Self Tapping Screws",
+    "category": "Screws & Small Parts",
+    "description": "Screws that cut their own thread in sheet metal and plastics.",
+    "image": "/images/products/self-tapping-screws.jpg",
+    "specs": {
+      "Material": "Steel or stainless steel"
+    }
+  },
+  {
+    "id": "screws-small-parts-anchor-fasteners",
+    "name": "Anchor Fasteners",
+    "category": "Screws & Small Parts",
+    "description": "Anchors for fixing machines, brackets and frames to floors and walls.",
+    "image": "/images/products/anchor-fasteners.jpg",
+    "specs": {
+      "Types": "Wedge, sleeve and drop-in"
+    }
+  },
+  {
+    "id": "screws-small-parts-circlips",
+    "name": "Circlips",
+    "category": "Screws & Small Parts",
+    "description": "Internal and external retaining rings that hold parts on shafts and in bores.",
+    "image": "/images/products/circlips.jpg",
+    "specs": {
+      "Types": "Internal and external",
+      "Material": "Spring steel"
+    }
+  },
+  {
+    "id": "screws-small-parts-dowel-pins",
+    "name": "Dowel Pins",
+    "category": "Screws & Small Parts",
+    "description": "Ground pins for exact alignment of mating parts.",
+    "image": "/images/products/dowel-pins.jpg",
+    "sizes": [
+      "3 mm",
+      "4 mm",
+      "5 mm",
+      "6 mm",
+      "8 mm",
+      "10 mm",
+      "12 mm",
+      "16 mm",
+      "20 mm"
+    ],
+    "specs": {
+      "Material": "Hardened steel or stainless steel",
+      "Finish": "Ground"
+    }
+  },
+  {
+    "id": "screws-small-parts-bushes-spacers",
+    "name": "Bushes & Spacers",
+    "category": "Screws & Small Parts",
+    "description": "Bushes, sleeves and spacers for machines and assemblies. Made to size if needed.",
+    "image": "/images/products/bushes-spacers.jpg",
+    "specs": {
+      "Material": "Steel, brass, aluminium or bronze"
+    }
+  },
+  {
+    "id": "power-tool-accessories-drill-chucks-keys",
+    "name": "Drill Chucks & Keys",
+    "category": "Power Tool Accessories",
+    "description": "Keyed drill chucks and replacement keys for power drills.",
+    "image": "/images/products/drill-chucks-keys.jpg",
+    "sizes": [
+      "10 mm",
+      "13 mm",
+      "16 mm"
+    ]
+  },
+  {
+    "id": "power-tool-accessories-sds-drill-bits",
+    "name": "SDS Drill Bits",
+    "category": "Power Tool Accessories",
+    "description": "SDS bits for drilling masonry and concrete with rotary hammers.",
+    "image": "/images/products/sds-drill-bits.jpg",
+    "sizes": [
+      "5 mm to 25 mm"
+    ],
+    "specs": {
+      "Shank": "SDS plus"
+    }
+  },
+  {
+    "id": "power-tool-accessories-diamond-cutting-blades",
+    "name": "Diamond Cutting Blades",
+    "category": "Power Tool Accessories",
+    "description": "Diamond blades for cutting tile, stone and concrete.",
+    "image": "/images/products/diamond-cutting-blades.jpg",
+    "sizes": [
+      "4 inch",
+      "5 inch",
+      "7 inch",
+      "14 inch"
+    ]
+  },
+  {
+    "id": "power-tool-accessories-hole-saw-kits",
+    "name": "Hole Saw Kits",
+    "category": "Power Tool Accessories",
+    "description": "Hole saw sets with arbors, packed for site and workshop use.",
+    "image": "/images/products/hole-saw-kits.jpg"
+  },
+  {
+    "id": "power-tool-accessories-wire-wheels",
+    "name": "Wire Wheels",
+    "category": "Power Tool Accessories",
+    "description": "Wire wheels for angle grinders and bench grinders.",
+    "image": "/images/products/wire-wheels.jpg"
+  },
+  {
+    "id": "power-tool-accessories-abrasive-discs",
+    "name": "Abrasive Discs",
+    "category": "Power Tool Accessories",
+    "description": "Discs for grinding, sanding and finishing with power tools.",
+    "image": "/images/products/abrasive-discs.jpg"
+  },
+  {
+    "id": "power-tool-accessories-power-tool-spares",
+    "name": "Power Tool Spares",
+    "category": "Power Tool Accessories",
+    "description": "Common spares for power tools. Tell us the make and model.",
+    "image": "/images/products/power-tool-spares.jpg"
+  },
+  {
+    "id": "electricals-capacitors",
+    "name": "Capacitors",
+    "category": "Electricals",
+    "description": "Run and start capacitors for motors and industrial equipment.",
+    "image": "/images/products/capacitors.jpg",
+    "specs": {
+      "Use": "Motors and control panels"
+    }
+  },
+  {
+    "id": "electricals-electric-switches",
+    "name": "Electric Switches",
+    "category": "Electricals",
+    "description": "Switches for control panels, machines and general wiring.",
+    "image": "/images/products/electric-switches.jpg"
+  },
+  {
+    "id": "electricals-wires-cables",
+    "name": "Wires & Cables",
+    "category": "Electricals",
+    "description": "Copper wires and cables for machines and panels.",
+    "image": "/images/products/wires-cables.jpg",
+    "specs": {
+      "Conductor": "Copper"
+    }
+  },
+  {
+    "id": "electricals-relays",
+    "name": "Relays",
+    "category": "Electricals",
+    "description": "Relays for switching and control circuits.",
+    "image": "/images/products/relays.jpg"
+  },
+  {
+    "id": "electricals-terminal-blocks",
+    "name": "Terminal Blocks",
+    "category": "Electricals",
+    "description": "Terminal blocks and connectors for tidy, safe wiring.",
+    "image": "/images/products/terminal-blocks.jpg"
+  },
+  {
+    "id": "electricals-cable-ties",
+    "name": "Cable Ties",
+    "category": "Electricals",
+    "description": "Nylon cable ties for bundling wires and hoses.",
+    "image": "/images/products/cable-ties.jpg",
+    "specs": {
+      "Material": "Nylon"
+    }
+  },
+  {
+    "id": "electricals-cable-glands",
+    "name": "Cable Glands",
+    "category": "Electricals",
+    "description": "Glands that secure cables where they enter enclosures.",
+    "image": "/images/products/cable-glands.jpg",
+    "specs": {
+      "Material": "Nylon, brass or stainless steel"
+    }
+  },
+  {
+    "id": "electricals-distribution-blocks",
+    "name": "Distribution Blocks",
+    "category": "Electricals",
+    "description": "Blocks that split one supply into several outputs.",
+    "image": "/images/products/distribution-blocks.jpg"
+  },
+  {
+    "id": "packaging-materials-cello-tape",
+    "name": "Cello Tape",
+    "category": "Packaging Materials",
+    "description": "Clear tape for light packing and sealing.",
+    "image": "/images/products/cello-tape.jpg"
+  },
+  {
+    "id": "packaging-materials-bubble-packing-roll",
+    "name": "Bubble Packing Roll",
+    "category": "Packaging Materials",
+    "description": "Bubble wrap to protect parts and equipment in transit.",
+    "image": "/images/products/bubble-packing-roll.jpg"
+  },
+  {
+    "id": "packaging-materials-stretch-film-roll",
+    "name": "Stretch Film Roll",
+    "category": "Packaging Materials",
+    "description": "Stretch film for wrapping pallets and bundles.",
+    "image": "/images/products/stretch-film-roll.jpg"
+  },
+  {
+    "id": "packaging-materials-corrugated-boxes",
+    "name": "Corrugated Boxes",
+    "category": "Packaging Materials",
+    "description": "Corrugated cartons for packing and dispatch.",
+    "image": "/images/products/corrugated-boxes.jpg",
+    "specs": {
+      "Size": "Standard or made to order"
+    }
+  },
+  {
+    "id": "packaging-materials-packing-tape",
+    "name": "Packing Tape",
+    "category": "Packaging Materials",
+    "description": "Strong tape for closing boxes and cartons.",
+    "image": "/images/products/packing-tape.jpg"
+  },
+  {
+    "id": "packaging-materials-plastic-straps",
+    "name": "Plastic Straps",
+    "category": "Packaging Materials",
+    "description": "Plastic strapping for bundling and securing loads.",
+    "image": "/images/products/plastic-straps.jpg"
+  },
+  {
+    "id": "packaging-materials-foam-sheets",
+    "name": "Foam Sheets",
+    "category": "Packaging Materials",
+    "description": "Foam sheets for cushioning and protecting finished parts.",
+    "image": "/images/products/foam-sheets.jpg"
+  },
+  {
+    "id": "safety-products-hand-gloves",
+    "name": "Hand Gloves",
+    "category": "Safety Products",
+    "description": "Work gloves for handling, machining and general shop use.",
+    "image": "/images/products/hand-gloves.jpg"
+  },
+  {
+    "id": "safety-products-safety-goggles",
+    "name": "Safety Goggles",
+    "category": "Safety Products",
+    "description": "Impact-resistant eye protection.",
+    "image": "/images/products/safety-goggles.jpg"
+  },
+  {
+    "id": "safety-products-helmets",
+    "name": "Helmets",
+    "category": "Safety Products",
+    "description": "Safety helmets for shop floor and site work.",
+    "image": "/images/products/helmets.jpg"
+  },
+  {
+    "id": "safety-products-ear-plugs-ear-muffs",
+    "name": "Ear Plugs / Ear Muffs",
+    "category": "Safety Products",
+    "description": "Hearing protection for noisy machinery.",
+    "image": "/images/products/ear-plugs-ear-muffs.jpg",
+    "specs": {
+      "Types": "Ear plugs and ear muffs"
+    }
+  },
+  {
+    "id": "safety-products-safety-shoes",
+    "name": "Safety Shoes",
+    "category": "Safety Products",
+    "description": "Protective footwear for industrial work.",
+    "image": "/images/products/safety-shoes.jpg"
+  },
+  {
+    "id": "safety-products-aprons",
+    "name": "Aprons",
+    "category": "Safety Products",
+    "description": "Work aprons for welding, grinding and machining.",
+    "image": "/images/products/aprons.jpg"
+  },
+  {
+    "id": "safety-products-reflective-jackets",
+    "name": "Reflective Jackets",
+    "category": "Safety Products",
+    "description": "High-visibility jackets for yards and shop floors.",
+    "image": "/images/products/reflective-jackets.jpg"
+  },
+  {
+    "id": "safety-products-face-shields",
+    "name": "Face Shields",
+    "category": "Safety Products",
+    "description": "Full face protection against chips, sparks and splashes.",
+    "image": "/images/products/face-shields.jpg"
+  },
+  {
+    "id": "chemicals-consumables-silica-gel",
+    "name": "Silica Gel",
+    "category": "Chemicals & Consumables",
+    "description": "Desiccant sachets that keep moisture away from parts in storage and transit.",
+    "image": "/images/products/silica-gel.jpg"
+  },
+  {
+    "id": "chemicals-consumables-cutting-fluids",
+    "name": "Cutting Fluids",
+    "category": "Chemicals & Consumables",
+    "description": "Coolant and cutting oils for machining, grinding and drilling.",
+    "image": "/images/products/cutting-fluids.jpg",
+    "specs": {
+      "Types": "Soluble and neat"
+    }
+  },
+  {
+    "id": "chemicals-consumables-lubricants",
+    "name": "Lubricants",
+    "category": "Chemicals & Consumables",
+    "description": "Machine and general purpose lubricants.",
+    "image": "/images/products/lubricants.jpg"
+  },
+  {
+    "id": "chemicals-consumables-anti-rust-coating",
+    "name": "Anti Rust Coating",
+    "category": "Chemicals & Consumables",
+    "description": "Coatings and sprays that protect finished parts from rust.",
+    "image": "/images/products/anti-rust-coating.jpg"
+  },
+  {
+    "id": "chemicals-consumables-greases",
+    "name": "Greases",
+    "category": "Chemicals & Consumables",
+    "description": "Multi-purpose and high-performance greases for bearings and moving parts.",
+    "image": "/images/products/greases.jpg"
+  },
+  {
+    "id": "chemicals-consumables-epoxy-adhesives",
+    "name": "Epoxy Adhesives",
+    "category": "Chemicals & Consumables",
+    "description": "Two-part epoxy for bonding metal, plastic and more.",
+    "image": "/images/products/epoxy-adhesives.jpg"
+  },
+  {
+    "id": "chemicals-consumables-thread-lockers",
+    "name": "Thread Lockers",
+    "category": "Chemicals & Consumables",
+    "description": "Anaerobic adhesives that keep threaded fasteners from loosening.",
+    "image": "/images/products/thread-lockers.jpg"
+  },
+  {
+    "id": "pneumatics-pneumatic-fittings",
+    "name": "Pneumatic Fittings",
+    "category": "Pneumatics",
+    "description": "Push-in and threaded fittings for air lines.",
+    "image": "/images/products/pneumatic-fittings.jpg"
+  },
+  {
+    "id": "pneumatics-pu-nylon-tubes",
+    "name": "PU / Nylon Tubes",
+    "category": "Pneumatics",
+    "description": "Polyurethane and nylon tubing for air lines.",
+    "image": "/images/products/pu-nylon-tubes.jpg",
+    "sizes": [
+      "4 mm",
+      "6 mm",
+      "8 mm",
+      "10 mm",
+      "12 mm"
+    ],
+    "specs": {
+      "Material": "PU or nylon"
+    }
+  },
+  {
+    "id": "pneumatics-air-regulators",
+    "name": "Air Regulators",
+    "category": "Pneumatics",
+    "description": "Regulators that set and hold air pressure in a line.",
+    "image": "/images/products/air-regulators.jpg"
+  },
+  {
+    "id": "pneumatics-solenoid-valves",
+    "name": "Solenoid Valves",
+    "category": "Pneumatics",
+    "description": "Electrically operated valves for controlling air flow.",
+    "image": "/images/products/solenoid-valves.jpg"
+  },
+  {
+    "id": "pneumatics-air-cylinders",
+    "name": "Air Cylinders",
+    "category": "Pneumatics",
+    "description": "Pneumatic cylinders for clamping, pushing and pulling.",
+    "image": "/images/products/air-cylinders.jpg"
+  },
+  {
+    "id": "pneumatics-pressure-gauges",
+    "name": "Pressure Gauges",
+    "category": "Pneumatics",
+    "description": "Gauges for reading air pressure.",
+    "image": "/images/products/pressure-gauges.jpg"
+  },
+  {
+    "id": "hydraulics-hydraulic-fittings",
+    "name": "Hydraulic Fittings",
+    "category": "Hydraulics",
+    "description": "Fittings and adaptors for hydraulic lines.",
+    "image": "/images/products/hydraulic-fittings.jpg"
+  },
+  {
+    "id": "hydraulics-hoses-hose-pipes",
+    "name": "Hoses & Hose Pipes",
+    "category": "Hydraulics",
+    "description": "Hydraulic hoses for pressure lines.",
+    "image": "/images/products/hoses-hose-pipes.jpg"
+  },
+  {
+    "id": "hydraulics-hydraulic-valves",
+    "name": "Hydraulic Valves",
+    "category": "Hydraulics",
+    "description": "Directional and control valves for hydraulic systems.",
+    "image": "/images/products/hydraulic-valves.jpg"
+  },
+  {
+    "id": "hydraulics-pressure-gauges",
+    "name": "Pressure Gauges",
+    "category": "Hydraulics",
+    "description": "Gauges for hydraulic pressure.",
+    "image": "/images/products/pressure-gauges.jpg"
+  },
+  {
+    "id": "hydraulics-hydraulic-oil",
+    "name": "Hydraulic Oil",
+    "category": "Hydraulics",
+    "description": "Hydraulic oil for presses, power packs and machines.",
+    "image": "/images/products/hydraulic-oil.jpg",
+    "specs": {
+      "Grade": "ISO 68 and other grades"
+    }
+  },
+  {
+    "id": "bearings-transmission-ball-bearings",
+    "name": "Ball Bearings",
+    "category": "Bearings & Transmission",
+    "description": "Deep groove and other ball bearings for shafts and machinery.",
+    "image": "/images/products/ball-bearings.jpg"
+  },
+  {
+    "id": "bearings-transmission-roller-bearings",
+    "name": "Roller Bearings",
+    "category": "Bearings & Transmission",
+    "description": "Roller bearings for higher loads.",
+    "image": "/images/products/roller-bearings.jpg"
+  },
+  {
+    "id": "bearings-transmission-pillow-blocks",
+    "name": "Pillow Blocks",
+    "category": "Bearings & Transmission",
+    "description": "Housed bearing units that bolt straight to a frame.",
+    "image": "/images/products/pillow-blocks.jpg"
+  },
+  {
+    "id": "bearings-transmission-bearing-housings",
+    "name": "Bearing Housings",
+    "category": "Bearings & Transmission",
+    "description": "Housings that support and protect bearings.",
+    "image": "/images/products/bearing-housings.jpg"
+  },
+  {
+    "id": "bearings-transmission-v-belts",
+    "name": "V-Belts",
+    "category": "Bearings & Transmission",
+    "description": "V-belts for power transmission from motors to machines.",
+    "image": "/images/products/v-belts.jpg"
+  },
+  {
+    "id": "bearings-transmission-timing-belts",
+    "name": "Timing Belts",
+    "category": "Bearings & Transmission",
+    "description": "Toothed belts for accurate, slip-free drives.",
+    "image": "/images/products/timing-belts.jpg"
+  },
+  {
+    "id": "bearings-transmission-couplings",
+    "name": "Couplings",
+    "category": "Bearings & Transmission",
+    "description": "Couplings that join two shafts and take up small misalignment.",
+    "image": "/images/products/couplings.jpg"
+  },
+  {
+    "id": "bearings-transmission-chain-sprockets",
+    "name": "Chain & Sprockets",
+    "category": "Bearings & Transmission",
+    "description": "Roller chain and matching sprockets for drives and conveyors.",
+    "image": "/images/products/chain-sprockets.jpg"
+  },
+  {
+    "id": "miscellaneous-levelling-pads",
+    "name": "Levelling Pads",
+    "category": "Miscellaneous",
+    "description": "Adjustable feet for levelling machines and frames.",
+    "image": "/images/products/levelling-pads.jpg"
+  },
+  {
+    "id": "miscellaneous-castors-wheels",
+    "name": "Castors & Wheels",
+    "category": "Miscellaneous",
+    "description": "Swivel and fixed castors for trolleys and equipment.",
+    "image": "/images/products/castors-wheels.jpg"
+  },
+  {
+    "id": "miscellaneous-gas-springs",
+    "name": "Gas Springs",
+    "category": "Miscellaneous",
+    "description": "Gas springs to support and lift lids, panels and doors.",
+    "image": "/images/products/gas-springs.jpg"
+  },
+  {
+    "id": "miscellaneous-door-handles",
+    "name": "Door Handles",
+    "category": "Miscellaneous",
+    "description": "Handles for machine guards, panels and cabinets.",
+    "image": "/images/products/door-handles.jpg"
+  },
+  {
+    "id": "miscellaneous-magnets",
+    "name": "Magnets",
+    "category": "Miscellaneous",
+    "description": "Magnets for holding, lifting and fixtures.",
+    "image": "/images/products/magnets.jpg"
+  },
+  {
+    "id": "miscellaneous-name-plates",
+    "name": "Name Plates",
+    "category": "Miscellaneous",
+    "description": "Metal name plates with your model and serial number details.",
+    "image": "/images/products/name-plates.jpg",
+    "specs": {
+      "Made to": "Your text and size"
+    }
+  },
+  {
+    "id": "miscellaneous-work-shop-essentials",
+    "name": "Work Shop Essentials",
+    "category": "Miscellaneous",
+    "description": "Everyday workshop items. Tell us what you need.",
+    "image": "/images/products/work-shop-essentials.jpg"
+  }
+]

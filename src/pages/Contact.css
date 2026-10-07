@@ -1,0 +1,109 @@
+.contact {
+  --ink: #0b1a26;
+  --ink-2: #13293a;
+  --teal: #0f8f9c;
+  --teal-dk: #0a6a74;
+  --gold: #d9a440;
+  --tint: #eef4f6;
+  --line: #d5e0e4;
+  --text: #22333f;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  color: var(--text);
+  line-height: 1.6;
+}
+.contact * { box-sizing: border-box; }
+.c-wrap { width: min(1200px, 92%); margin: 0 auto; }
+.contact h1, .contact h2 { margin: 0; color: var(--ink); line-height: 1.15; }
+.contact h2 { font-size: 1.6rem; font-weight: 700; }
+.contact a:focus-visible,
+.contact input:focus-visible,
+.contact select:focus-visible,
+.contact textarea:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+
+/* page header */
+.contact__head {
+  padding: clamp(2.5rem, 6vw, 4.5rem) 0;
+  background:
+    linear-gradient(rgba(15, 143, 156, 0.13) 1px, transparent 1px) 0 0 / 32px 32px,
+    linear-gradient(90deg, rgba(15, 143, 156, 0.13) 1px, transparent 1px) 0 0 / 32px 32px,
+    var(--ink);
+}
+.contact__head h1 { color: #fff; font-size: clamp(2rem, 5vw, 3.4rem); font-weight: 800; }
+.contact__head p { color: #bcd2d8; max-width: 62ch; margin: 1rem 0 0; font-size: 1.08rem; }
+
+/* main grid */
+.contact__grid {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  gap: 3rem;
+  padding: clamp(2.5rem, 6vw, 4.5rem) 0;
+}
+
+/* details */
+.details dl { margin: 1.5rem 0 0; }
+.details dt { font-weight: 700; color: var(--teal-dk); margin-top: 1.2rem; font-size: 0.95rem; }
+.details dd { margin: 0.2rem 0 0; font-size: 1.05rem; }
+.details a { color: var(--ink); font-weight: 600; word-break: break-word; }
+.details a:hover { color: var(--teal-dk); }
+.block { display: block; }
+.quick { display: flex; flex-wrap: wrap; gap: 0.8rem; margin-top: 2rem; }
+
+/* form */
+.form {
+  background: var(--tint);
+  border-top: 5px solid var(--teal);
+  padding: clamp(1.4rem, 3vw, 2.2rem);
+  display: grid;
+  gap: 1rem;
+  align-content: start;
+}
+.form .row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.form label { display: grid; gap: 0.35rem; font-weight: 600; font-size: 0.95rem; color: var(--ink); }
+.form input, .form select, .form textarea {
+  font: inherit; font-weight: 400; color: var(--text);
+  padding: 0.7rem 0.8rem; background: #fff;
+  border: 1px solid #a9bcc3; border-radius: 3px; width: 100%;
+}
+.form textarea { resize: vertical; }
+.form .c-btn { justify-self: start; }
+.form__note { margin: 0; font-size: 0.88rem; color: #5b707c; }
+
+/* buttons */
+.c-btn {
+  display: inline-block; padding: 0.8rem 1.5rem; font: inherit; font-weight: 700;
+  text-decoration: none; border-radius: 3px; border: 2px solid transparent; cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+}
+.c-btn--gold { background: var(--gold); color: var(--ink); }
+.c-btn--gold:hover { background: #e8b652; }
+.c-btn--wa { background: #1f9d55; color: #fff; }
+.c-btn--wa:hover { background: #188045; }
+.c-btn--line { border-color: var(--teal); color: var(--teal-dk); }
+.c-btn--line:hover { background: var(--teal); color: #fff; }
+.c-btn--line-dark { border-color: var(--ink); color: var(--ink); }
+.c-btn--line-dark:hover { background: var(--ink); color: #fff; }
+
+/* map */
+.mapsec { padding-bottom: clamp(2.5rem, 6vw, 4.5rem); }
+.mapsec__top {
+  display: flex; justify-content: space-between; align-items: end;
+  gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1.4rem;
+}
+.mapsec__top p { margin: 0.4rem 0 0; }
+.map { border: 1px solid var(--line); height: 420px; background: var(--tint); }
+.map iframe { width: 100%; height: 100%; border: 0; display: block; }
+.map__placeholder {
+  height: 100%; display: grid; place-content: center; text-align: center; gap: 0.3rem;
+  color: #5b707c; padding: 1rem;
+  background:
+    linear-gradient(rgba(15, 143, 156, 0.12) 1px, transparent 1px) 0 0 / 28px 28px,
+    linear-gradient(90deg, rgba(15, 143, 156, 0.12) 1px, transparent 1px) 0 0 / 28px 28px,
+    var(--tint);
+}
+.map__placeholder p { margin: 0; font-weight: 700; color: var(--ink); font-size: 1.1rem; }
+
+@media (max-width: 860px) {
+  .contact__grid { grid-template-columns: 1fr; gap: 2rem; }
+  .form .row { grid-template-columns: 1fr; }
+  .map { height: 320px; }
+}
