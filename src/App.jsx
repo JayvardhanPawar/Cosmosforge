@@ -3,6 +3,7 @@ import { Routes, Route, useLocation } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Loader from "./components/Loader";
+import FloatingActions from "./components/FloatingActions";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Manufacturing from "./pages/Manufacturing";
@@ -11,7 +12,8 @@ import Trading from "./pages/Trading";
 import ProductDetail from "./pages/ProductDetail";
 import Contact from "./pages/Contact";
 
-// Opens each new page at the top (for example after clicking a footer link).
+// Scrolls to the top whenever you open a new page (for example from a footer link).
+// It ignores filter changes on the same page, so filtering doesn't jump the page.
 function ScrollToTop() {
   const { pathname } = useLocation();
   useEffect(() => {
@@ -43,6 +45,7 @@ export default function App() {
         <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
+      <FloatingActions />
     </>
   );
 }

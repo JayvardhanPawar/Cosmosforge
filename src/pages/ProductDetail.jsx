@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import products from "../data/trading.json";
+import ProductEnquiry from "../components/ProductEnquiry";
 import "./ProductDetail.css";
 
 const PHONE = "+91 9175689186";
@@ -46,8 +47,13 @@ export default function ProductDetail() {
   const prev = sameCategory[pos - 1];
   const next = sameCategory[pos + 1];
 
-  const enquiry = `/contact?product=${encodeURIComponent(product.name)}`;
   const waText = encodeURIComponent(`Hello Cosmosforge Engineering, I would like a quotation for: ${product.name}.`);
+
+  const goToForm = (e) => {
+    e.preventDefault();
+    document.getElementById("quote")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+
 
   const specs = product.specs ? Object.entries(product.specs) : [];
 
@@ -86,7 +92,7 @@ export default function ProductDetail() {
             )}
 
             <div className="pd-actions">
-              <Link to={enquiry} className="pd-btn pd-btn--gold">Request a quote</Link>
+              <a href="#quote" onClick={goToForm} className="pd-btn pd-btn--gold">Request a quote</a>
               <a className="pd-btn pd-btn--wa" href={`https://wa.me/${PHONE_DIGITS}?text=${waText}`} target="_blank" rel="noreferrer">
                 WhatsApp us
               </a>
@@ -114,15 +120,18 @@ export default function ProductDetail() {
           </section>
         )}
 
-        <section className="pd-block pd-need">
-          <h2>What to tell us for a quick quote</h2>
-          <ul>
-            <li>Size or specification</li>
-            <li>Material or grade</li>
-            <li>Quantity needed</li>
-            <li>Brand preference, if any</li>
-          </ul>
-        </section>
+        <ProductEnquiry
+          key={product.id}
+          productName={product.name}
+          kind="product"
+          title="Request a quotation"
+          checklist={[
+            "Size or specification",
+            "Material or grade",
+            "Quantity needed",
+            "Brand preference, if any",
+          ]}
+        />
 
         {related.length > 0 && (
           <section className="pd-block">

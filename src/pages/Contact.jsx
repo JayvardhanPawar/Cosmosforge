@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import trading from "../data/trading.json";
+import { sendEnquiry, emailConfigured } from "../utils/sendEnquiry";
 
 const CONTACT = {
   company: "Cosmosforge Engineering",
@@ -128,6 +129,13 @@ const CSS = `
 .ct-note { margin: 0; font-size: 0.88rem; color: #5b707c; flex: 1; min-width: 220px; }
 .ct-sent { margin-top: 1.4rem; padding: 1rem 1.2rem; background: #e8f6ee; border-left: 5px solid #1f9d55; border-radius: 3px; color: #14532d; }
 .ct-sent b { display: block; }
+.ct-error { margin-top: 1.4rem; padding: 1rem 1.2rem; background: #fdecea; border-left: 5px solid #c0392b; border-radius: 3px; color: #7a1f16; }
+.ct-error b { display: block; }
+.ct-linkbtn { padding: 0; background: none; border: 0; font: inherit; font-weight: 700; color: #7a1f16; text-decoration: underline; cursor: pointer; }
+.ct-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.ct-btn:disabled { opacity: 0.75; cursor: wait; transform: none; }
+.ct-spin { width: 16px; height: 16px; border: 3px solid rgba(11, 26, 38, 0.3); border-top-color: #0b1a26; border-radius: 50%; animation: ct-rot 0.7s linear infinite; }
+@keyframes ct-rot { to { transform: rotate(360deg); } }
 
 /* side panel */
 .ct-side { position: sticky; top: 92px; display: grid; gap: 1.2rem; }
@@ -193,23 +201,28 @@ export default function Contact() {
     type: product ? (isTrading ? TYPE_TRADING : TYPE_PARTS) : TYPE_PARTS,
     message: product ? `I would like a quotation for: ${product}\nQuantity: \nSize / specification: ` : "",
   });
-  const [sent, setSent] = useState(false);
+  const [status, setStatus] = useState("idle"); // idle | sending | success | error
+  const [honey, setHoney] = useState(""); // spam trap: real visitors never see or fill this
   const set = (key) => (e) => setForm({ ...form, [key]: e.target.value });
 
-  const submit = (e) => {
+  const submit = async (e) => {
     e.preventDefault();
-    const body = [
-      `Name: ${form.name}`,
-      `Company: ${form.company}`,
-      `Phone: ${form.phone}`,
-      `Email: ${form.email}`,
-      `Enquiry: ${form.type}`,
-      "",
-      form.message,
-    ].join("\n");
-    window.location.href =
-      `mailto:${CONTACT.email}?subject=${encodeURIComponent("Website enquiry: " + form.type)}&body=${encodeURIComponent(body)}`;
-    setSent(true);
+    if (honey) return; // a bot filled the hidden field
+    setStatus("sending");
+    try {
+      await sendEnquiry({ ...form, source: product ? `Contact page (product: ${product})` : "Contact page" });
+      setStatus("success");
+      setForm({ name: "", company: "", phone: "", email: "", type: TYPE_PARTS, message: "" });
+    } catch (err) {
+      console.error("Enquiry could not be sent:", err);
+      setStatus("error");
+    }
+  };
+
+  // fallback if sending fails: open the visitor's own email app instead
+  const mailtoFallback = () => {
+    const body = [`Name: ${form.name}`, `Company: ${form.company}`, `Phone: ${form.phone}`, `Email: ${form.email}`, `Enquiry: ${form.type}`, "", form.message].join("\n");
+    window.location.href = `mailto:${CONTACT.email}?subject=${encodeURIComponent("Website enquiry: " + form.type)}&body=${encodeURIComponent(body)}`;
   };
 
   const whatsapp = `https://wa.me/${PHONE_DIGITS}?text=${encodeURIComponent(
@@ -293,15 +306,31 @@ export default function Contact() {
             </div>
           </div>
 
-          <div className="ct-submit">
-            <button type="submit" className="ct-btn ct-btn--gold">Send enquiry <Icon name="arrow" /></button>
-            <p className="ct-note">This opens your email app with the details filled in. To share a drawing, attach it there, or send it on WhatsApp.</p>
+          {/* spam trap, hidden from people */}
+          <div className="ct-hp" aria-hidden="true">
+            <label htmlFor="ct-website">Leave this empty</label>
+            <input id="ct-website" tabIndex={-1} autoComplete="off" value={honey} onChange={(e) => setHoney(e.target.value)} />
           </div>
 
-          {sent && (
+          <div className="ct-submit">
+            <button type="submit" className="ct-btn ct-btn--gold" disabled={status === "sending"}>
+              {status === "sending" ? (<><span className="ct-spin" aria-hidden="true" /> Sending...</>) : (<>Send enquiry <Icon name="arrow" /></>)}
+            </button>
+            <p className="ct-note">We reply by phone or email. To share a drawing, send it on WhatsApp or reply to our email.</p>
+          </div>
+
+          {status === "success" && (
             <div className="ct-sent" role="status">
-              <b>Your email app should be opening.</b>
-              If nothing happens, write to us directly at {CONTACT.email} or call {CONTACT.phone}.
+              <b>Thank you. Your enquiry has been sent.</b>
+              We will contact you soon. For anything urgent, call {CONTACT.phone}.
+            </div>
+          )}
+          {status === "error" && (
+            <div className="ct-error" role="alert">
+              <b>Sorry, we could not send your enquiry.</b>
+              {emailConfigured ? "Please check your connection and try again, or" : "Online sending is not set up yet, so"}{" "}
+              <button type="button" className="ct-linkbtn" onClick={mailtoFallback}>send it with your email app</button>
+              {" "}or call {CONTACT.phone}.
             </div>
           )}
         </form>

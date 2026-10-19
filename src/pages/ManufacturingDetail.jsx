@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import items from "../data/manufacturing.json";
+import ProductEnquiry from "../components/ProductEnquiry";
 import "./ProductDetail.css"; // shares the detail layout with the product page
 
 const PHONE = "+91 9175689186";
@@ -47,8 +48,13 @@ export default function ManufacturingDetail() {
   const next = sameCategory[pos + 1];
 
   const catLink = `/manufacturing?category=${encodeURIComponent(item.category)}`;
-  const enquiry = `/contact?product=${encodeURIComponent(item.name)}`;
   const waText = encodeURIComponent(`Hello Cosmosforge Engineering, I would like a quotation for: ${item.name}. I can share the drawing or sample.`);
+
+  const goToForm = (e) => {
+    e.preventDefault();
+    document.getElementById("quote")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+
   const specs = item.specs ? Object.entries(item.specs) : [];
 
   return (
@@ -88,7 +94,7 @@ export default function ManufacturingDetail() {
             )}
 
             <div className="pd-actions">
-              <Link to={enquiry} className="pd-btn pd-btn--gold">Request a quote</Link>
+              <a href="#quote" onClick={goToForm} className="pd-btn pd-btn--gold">Request a quote</a>
               <a className="pd-btn pd-btn--wa" href={`https://wa.me/${PHONE_DIGITS}?text=${waText}`} target="_blank" rel="noreferrer">
                 Share drawing on WhatsApp
               </a>
@@ -116,15 +122,18 @@ export default function ManufacturingDetail() {
           </section>
         )}
 
-        <section className="pd-block pd-need">
-          <h2>What to send us for a quotation</h2>
-          <ul>
-            <li>Drawing (PDF or CAD) or a sample</li>
-            <li>Material and grade</li>
-            <li>Quantity and delivery date</li>
-            <li>Tolerance and surface finish</li>
-          </ul>
-        </section>
+        <ProductEnquiry
+          key={item.id}
+          productName={item.name}
+          kind="manufacturing"
+          title="Request a quotation"
+          checklist={[
+            "Drawing (PDF or CAD) or a sample",
+            "Material and grade",
+            "Quantity and delivery date",
+            "Tolerance and surface finish",
+          ]}
+        />
 
         {related.length > 0 && (
           <section className="pd-block">

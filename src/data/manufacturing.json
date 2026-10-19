@@ -268,6 +268,47 @@
     }
   },
   {
+  "id": "tapping-fixture",
+  "name": "Tapping Fixture",
+  "category": "Fixtures",
+  "description": "Precision-engineered tapping fixture designed to securely hold and accurately position components during tapping operations. Manufactured to customer drawings or samples to ensure repeatability, dimensional accuracy, and efficient machining.",
+  "image": "/images/manufacturing/tapping-fixture.jpg",
+  "processes": [
+    "CNC Machining",
+    "VMC Machining",
+    "Drilling & Tapping",
+    "Fixture Design & Manufacturing",
+    "Precision Assembly"
+  ],
+  "specs": {
+    "Made to": "Your drawing or sample",
+    "Application": "Precision tapping operations",
+    "Material": "As per customer requirements"
+  }
+},
+
+{
+  "id": "drilling-fixture",
+  "name": "Drilling Fixture",
+  "category": "Fixtures",
+  "description": "Precision-engineered drilling fixture designed to securely hold and accurately position workpieces during drilling operations. Equipped with a clamping mechanism and precision-machined locating components to ensure repeatability, machining accuracy, and efficient production. Manufactured to customer drawings or samples.",
+  "image": "/images/manufacturing/drilling-fixture.png",
+  "processes": [
+    "CNC Machining",
+    "VMC Machining",
+    "Drilling & Tapping",
+    "Fixture Design & Manufacturing",
+    "Precision Grinding",
+    "Fixture Assembly"
+  ],
+  "specs": {
+    "Made to": "Your drawing or sample",
+    "Application": "Precision drilling operations",
+    "Clamping": "Manual toggle clamp",
+    "Material": "As per customer requirements"
+  }
+},
+  {
     "id": "fixtures-machining-fixture",
     "name": "Machining Fixture",
     "category": "Fixtures",
